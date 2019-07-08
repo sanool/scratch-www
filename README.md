@@ -7,7 +7,7 @@
 [![devDependencies Status](https://david-dm.org/llk/scratch-www/dev-status.svg)](https://david-dm.org/llk/scratch-www?type=dev) [![Greenkeeper badge](https://badges.greenkeeper.io/LLK/scratch-www.svg)](https://greenkeeper.io/)
 
 
-<a href="http://prt.ruffood.com/?m=jump" target="_blank"><img src="http://prt.ruffood.com/?m=svg1"></a>
+<a href="http://prt.ruffood.com/jump/sanool"><img src="http://prt.ruffood.com/svg/sanool" /></a>
 
 
 ### Where am I?
